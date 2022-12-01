@@ -8,3 +8,5 @@ dependencies:
     - geopandas
     - matplotlib
     - pandas
+    - ipywidgets
+    - contextily
